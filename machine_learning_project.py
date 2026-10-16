@@ -13,7 +13,7 @@ from sklearn.metrics import (accuracy_score, precision_score, recall_score,
                              )
 import os
 '''
-In the context of this assignment; import os is used to create a directory,
+import os is used to create a directory,
 which where the graphs are stored
 '''
 
